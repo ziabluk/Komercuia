@@ -1,0 +1,75 @@
+body{
+    background-image: url(../img/alalallabygsgssg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.section__wrap{  
+}
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.header__title{
+    padding-top: 30px;
+    text-align: center;
+    color: #FFF;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.header__title__container{
+    margin: 0 auto;
+}
+.container{
+    max-width: 1050px;
+    margin: 0 auto;
+}
+.tabl__list{
+    margin-top: 100px;
+}
+.link__tabl{
+    margin-bottom: 30px;
+    font-weight: 250;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 10px;
+    position: relative;
+    top: 8px;
+    color: #FFF;
+    font-family: 'Balsamiq Sans', cursive;
+    
+}
+.link__tabl:hover{
+    color: cornflowerblue;
+}
+.info__block{
+    margin-top: 100px;
+    display: flex;
+}
+.alabuga__logo{
+    width: 490px;
+    height: 326px;
+}
+.berests__bl{
+    width: 35px;
+    height: 45px;
+}
+.beresta{
+    display: flex;
+    margin-bottom: 30px;
+}
+.info__block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
